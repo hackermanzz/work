@@ -1,0 +1,1 @@
+pizza,coke,cooked chicken,fried rice,4,3,6,4

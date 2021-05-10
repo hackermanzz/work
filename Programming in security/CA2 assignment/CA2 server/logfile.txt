@@ -1,0 +1,41 @@
+
+
+Friday
+=====Client session:aac25068-54ad-11ea-8f5a-d8f2ca6cb9bf=====
+Client made a payment of $19.2 at 13:25:45
+1: pizza
+2: coke
+3: apple pie
+4: cooked chicken
+5: fried rice
+=============================================================
+
+Friday
+=====Client session:eef7f974-54ad-11ea-bc57-d8f2ca6cb9bf=====
+Client made a payment of $ice kachang
+blueberry muffin
+apple rissotto
+rose rice
+ at 13:27:40
+=============================================================
+
+Friday
+=====Client session:4d858cae-54ae-11ea-9972-d8f2ca6cb9bf=====
+Client made a payment of $24.0 at 13:30:18
+1: pizza
+2: coke
+3: cooked chicken
+4: fried rice
+5: cooked chicken
+6: coke
+7: pizza
+=============================================================
+
+Tuesday
+=====Client session:9f24ce24-e0fe-11ea-95d0-d8f2ca6cb9bf=====
+Client made a payment of $13.600000000000001 at 02:57:58
+1: blueberry muffin
+2: ice kachang
+3: blueberry muffin
+4: apple rissotto
+=============================================================
